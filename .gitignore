@@ -1,0 +1,16 @@
+*~
+.DS_Store
+vendor/*
+/dep
+/testdep
+/dep.exe
+/licenseok
+/profile.out
+/coverage.txt
+.idea
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+.env
